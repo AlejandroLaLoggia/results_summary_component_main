@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Add solution URL here](https://github.com/AlejandroLaLoggia/results_summary_component_main)
+- Live Site URL: [Add live site URL here](https://alejandrolaloggia.github.io/results_summary_component_main/)
 
 ## My process
 
